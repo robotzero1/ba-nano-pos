@@ -188,7 +188,7 @@ const serverCheck = async () => {
   return true;
 }
 
-const asyncInterval = async (callback, ms, triesLeft = 1) => {
+const asyncInterval = async (callback, ms, triesLeft = 3) => {
   return new Promise((resolve, reject) => {
     const interval = setInterval(async () => {
       if (await callback()) { 
