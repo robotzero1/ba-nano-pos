@@ -41,7 +41,12 @@ Add https://www.npmjs.com/package/@bananocoin/bananojs to the server install
 \
 CREDITS
 
-Client and server use https://github.com/BananoCoin/bananojs library
-Banano website https://banano.cc/
-Monkey generation https://monkey.banano.cc/
-Sweet icons designed by Freepik from Flaticon https://www.flaticon.com/packs/desserts-and-candies-19
+Client and server use https://github.com/BananoCoin/bananojs library  
+Banano website https://banano.cc/  
+Monkey generation https://monkey.banano.cc/  
+Sweet icons designed by Freepik from Flaticon https://www.flaticon.com/packs/desserts-and-candies-19  
+
+\
+VIDEO DEMONSTRATION
+
+https://streamable.com/gxnxtg  
