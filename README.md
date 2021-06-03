@@ -47,6 +47,11 @@ Monkey generation https://monkey.banano.cc/
 Sweet icons designed by Freepik from Flaticon https://www.flaticon.com/packs/desserts-and-candies-19  
 
 \
+LIVE DEMONSTRATION
+
+Simulated mobile screen: https://bananopos.live/desktop-demo/ Demo if viewing on mobile: https://bananopos.live/mobile-demo/ 
+
+\
 VIDEO DEMONSTRATION
 
 https://streamable.com/gxnxtg  
